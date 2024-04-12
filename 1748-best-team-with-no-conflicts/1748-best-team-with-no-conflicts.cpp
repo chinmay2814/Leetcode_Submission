@@ -1,15 +1,17 @@
 class Solution {
 public:
-    int dp[1005];
-    int fun(int ind, vector<pair<int,int>>& arr){
-        if(dp[ind]!=-1) return dp[ind];
-        int ans=arr[ind].second;
-        for(int i=0;i<ind;i++){
-            if(arr[i].second<=arr[ind].second){
-                ans=max(ans,arr[ind].second+fun(i,arr));
-            }
+    int dp[1005][1005];
+    int fun(int ind, int prev, vector<pair<int,int>>& arr){
+        if(ind==arr.size()){
+            return 0;
         }
-        return dp[ind]=ans;
+        if(dp[ind][prev+1]!=-1) return dp[ind][prev+1];
+        int npick=fun(ind+1,prev,arr);
+        int pick=-1e9;
+        if(prev==-1||arr[prev].first>=arr[ind].first||arr[prev].second<=arr[ind].second){
+            pick=arr[ind].second+fun(ind+1,ind,arr);
+        }
+        return dp[ind][prev+1]=max(pick,npick);
     }
     int bestTeamScore(vector<int>& scores, vector<int>& ages) {
         vector<pair<int,int>> arr;
@@ -19,10 +21,6 @@ public:
         }
         sort(arr.begin(),arr.end());
         memset(dp,-1,sizeof(dp));
-        int ans=0;
-        for(int i=0;i<n;i++){
-            ans=max(ans,fun(i,arr));
-        }
-        return ans;
+        return fun(0,-1,arr);
     }
 };
