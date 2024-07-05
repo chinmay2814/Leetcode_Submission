@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1804-maximum-binary-string-after-change](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1804-maximum-binary-string-after-change) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Dynamic Programming
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1804-maximum-binary-string-after-change](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1804-maximum-binary-string-after-change) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Memoization
 |  |
