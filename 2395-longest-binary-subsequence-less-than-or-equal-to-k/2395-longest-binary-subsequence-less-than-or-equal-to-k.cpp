@@ -5,7 +5,7 @@ ll dp[1001][1001];
 class Solution {
 
     ll solve(const string &s, ll k, int idx, ll count) {
-        if (k < 0) return LLONG_MIN;
+        if (k < 0) return -1e9;
         if (idx >= s.length()) return 0;
         if (dp[idx][count] != -1) return dp[idx][count];
 
