@@ -20,7 +20,7 @@ public:
         ct++;
         if(ct==k){
             ans=root->val;
-            return;
+            //return;
         }
         fun(root->right,k,ans,ct);
     }
