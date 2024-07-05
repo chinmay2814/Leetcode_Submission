@@ -38,8 +38,6 @@ public:
                 break;
             }
         }
-
-        // Find the lowest common ancestor
         TreeNode *ans = NULL;
         for (int i = 0; i < min(pa.size(), pb.size()); ++i) {
             if (pa[i] == pb[i]) {
@@ -50,5 +48,6 @@ public:
         }
 
         return ans;
+        
     }
 };
