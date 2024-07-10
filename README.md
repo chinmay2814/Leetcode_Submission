@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1122-longest-duplicate-substring](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1122-longest-duplicate-substring) |
 ## Array
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0214-shortest-palindrome) |
+| [1122-longest-duplicate-substring](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1122-longest-duplicate-substring) |
 | [1804-maximum-binary-string-after-change](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1804-maximum-binary-string-after-change) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Dynamic Programming
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0214-shortest-palindrome) |
+| [1122-longest-duplicate-substring](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1122-longest-duplicate-substring) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/chinmay2814/Leetcode_Submission/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 ## String Matching
 |  |
@@ -146,5 +149,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0214-shortest-palindrome) |
+| [1122-longest-duplicate-substring](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1122-longest-duplicate-substring) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/chinmay2814/Leetcode_Submission/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
+## Sliding Window
+|  |
+| ------- |
+| [1122-longest-duplicate-substring](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1122-longest-duplicate-substring) |
+## Suffix Array
+|  |
+| ------- |
+| [1122-longest-duplicate-substring](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1122-longest-duplicate-substring) |
 <!---LeetCode Topics End-->
