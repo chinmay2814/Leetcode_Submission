@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0334-increasing-triplet-subsequence) |
 | [0493-reverse-pairs](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0493-reverse-pairs) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/chinmay2814/Leetcode_Submission/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/chinmay2814/Leetcode_Submission/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/chinmay2814/Leetcode_Submission/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
 ## Stack
@@ -135,12 +136,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0214-shortest-palindrome) |
+| [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/chinmay2814/Leetcode_Submission/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 ## String Matching
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0214-shortest-palindrome) |
+| [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/chinmay2814/Leetcode_Submission/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0214-shortest-palindrome) |
+| [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/chinmay2814/Leetcode_Submission/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 <!---LeetCode Topics End-->
