@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0214-shortest-palindrome) |
 | [1804-maximum-binary-string-after-change](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1804-maximum-binary-string-after-change) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Dynamic Programming
@@ -130,4 +131,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0493-reverse-pairs) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
