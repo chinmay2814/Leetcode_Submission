@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0334-increasing-triplet-subsequence) |
 | [0493-reverse-pairs](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0493-reverse-pairs) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2846-robot-collisions](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2846-robot-collisions) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/chinmay2814/Leetcode_Submission/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/chinmay2814/Leetcode_Submission/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
@@ -194,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2846-robot-collisions](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2846-robot-collisions) |
+## Matrix
+|  |
+| ------- |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1496-lucky-numbers-in-a-matrix) |
 <!---LeetCode Topics End-->
