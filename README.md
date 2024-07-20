@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0543-diameter-of-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0652-find-duplicate-subtrees) |
+| [0684-redundant-connection](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0684-redundant-connection) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0199-binary-tree-right-side-view) |
+| [0684-redundant-connection](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0684-redundant-connection) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -199,4 +201,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1496-lucky-numbers-in-a-matrix) |
+## Union Find
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0684-redundant-connection) |
+## Graph
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
