@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-loud-and-rich](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0881-loud-and-rich) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2846-robot-collisions](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2846-robot-collisions) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/chinmay2814/Leetcode_Submission/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/chinmay2814/Leetcode_Submission/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0152-maximum-product-subarray) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/chinmay2814/Leetcode_Submission/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
 ## Greedy
 |  |
@@ -140,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Counting
 |  |
 | ------- |
@@ -205,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Union Find
 |  |
 | ------- |
@@ -215,9 +221,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0310-minimum-height-trees) |
 | [0684-redundant-connection](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0684-redundant-connection) |
 | [0881-loud-and-rich](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0881-loud-and-rich) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Topological Sort
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0310-minimum-height-trees) |
 | [0881-loud-and-rich](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0881-loud-and-rich) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 <!---LeetCode Topics End-->
