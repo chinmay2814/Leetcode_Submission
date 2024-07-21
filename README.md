@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0310-minimum-height-trees) |
 | [0543-diameter-of-binary-tree](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0543-diameter-of-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0652-find-duplicate-subtrees) |
 | [0684-redundant-connection](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0684-redundant-connection) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0199-binary-tree-right-side-view) |
+| [0310-minimum-height-trees](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0310-minimum-height-trees) |
 | [0684-redundant-connection](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0684-redundant-connection) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
@@ -210,10 +212,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0310-minimum-height-trees) |
 | [0684-redundant-connection](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0684-redundant-connection) |
 | [0881-loud-and-rich](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0881-loud-and-rich) |
 ## Topological Sort
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0310-minimum-height-trees) |
 | [0881-loud-and-rich](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0881-loud-and-rich) |
 <!---LeetCode Topics End-->
