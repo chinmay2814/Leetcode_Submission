@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0543-diameter-of-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0652-find-duplicate-subtrees) |
 | [0684-redundant-connection](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0695-max-area-of-island) |
 | [0881-loud-and-rich](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0881-loud-and-rich) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0199-binary-tree-right-side-view) |
 | [0310-minimum-height-trees](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0310-minimum-height-trees) |
 | [0684-redundant-connection](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0695-max-area-of-island) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0268-missing-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0334-increasing-triplet-subsequence) |
 | [0493-reverse-pairs](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0493-reverse-pairs) |
+| [0695-max-area-of-island](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0695-max-area-of-island) |
 | [0881-loud-and-rich](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0881-loud-and-rich) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -210,12 +213,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0695-max-area-of-island) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Union Find
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0695-max-area-of-island) |
 ## Graph
 |  |
 | ------- |
