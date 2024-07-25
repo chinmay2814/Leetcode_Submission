@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0098-validate-binary-search-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0098-validate-binary-search-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0098-validate-binary-search-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0152-maximum-product-subarray) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2409-number-of-increasing-paths-in-a-grid) |
