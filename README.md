@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+| [2175-count-nodes-with-the-highest-score](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2175-count-nodes-with-the-highest-score) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+| [2175-count-nodes-with-the-highest-score](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2439-longest-cycle-in-a-graph](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2439-longest-cycle-in-a-graph) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
+| [2175-count-nodes-with-the-highest-score](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2175-count-nodes-with-the-highest-score) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1333-sort-the-jumbled-numbers](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1792-find-the-most-competitive-subsequence) |
+| [2175-count-nodes-with-the-highest-score](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2846-robot-collisions](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2846-robot-collisions) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/chinmay2814/Leetcode_Submission/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
