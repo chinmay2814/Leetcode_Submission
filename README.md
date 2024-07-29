@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1207-delete-nodes-and-return-forest) |
 | [1333-sort-the-jumbled-numbers](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1511-count-number-of-teams](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1511-count-number-of-teams) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1792-find-the-most-competitive-subsequence) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2409-number-of-increasing-paths-in-a-grid) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0132-palindrome-partitioning-ii) |
 | [0152-maximum-product-subarray](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0152-maximum-product-subarray) |
+| [1511-count-number-of-teams](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1511-count-number-of-teams) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/chinmay2814/Leetcode_Submission/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0493-reverse-pairs) |
+| [1511-count-number-of-teams](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1511-count-number-of-teams) |
 ## Segment Tree
 |  |
 | ------- |
