@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0493-reverse-pairs) |
 | [0695-max-area-of-island](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0695-max-area-of-island) |
 | [0881-loud-and-rich](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0881-loud-and-rich) |
+| [0909-stone-game](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0909-stone-game) |
 | [0948-sort-an-array](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0948-sort-an-array) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1207-delete-nodes-and-return-forest) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0132-palindrome-partitioning-ii) |
 | [0152-maximum-product-subarray](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0152-maximum-product-subarray) |
 | [0312-burst-balloons](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0312-burst-balloons) |
+| [0909-stone-game](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0909-stone-game) |
 | [1511-count-number-of-teams](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1511-count-number-of-teams) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2409-number-of-increasing-paths-in-a-grid) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0268-missing-number) |
+| [0909-stone-game](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0909-stone-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -290,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0948-sort-an-array) |
+## Game Theory
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0909-stone-game) |
 <!---LeetCode Topics End-->
