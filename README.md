@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1792-find-the-most-competitive-subsequence](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1792-find-the-most-competitive-subsequence) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2409-number-of-increasing-paths-in-a-grid) |
+| [2727-number-of-senior-citizens](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2846-robot-collisions) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/chinmay2814/Leetcode_Submission/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/chinmay2814/Leetcode_Submission/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-longest-duplicate-substring](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1122-longest-duplicate-substring) |
 | [1804-maximum-binary-string-after-change](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1804-maximum-binary-string-after-change) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2727-number-of-senior-citizens](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2727-number-of-senior-citizens) |
 ## Dynamic Programming
 |  |
 | ------- |
