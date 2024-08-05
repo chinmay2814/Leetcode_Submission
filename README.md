@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0132-palindrome-partitioning-ii) |
 | [0152-maximum-product-subarray](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0152-maximum-product-subarray) |
 | [0312-burst-balloons](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0312-burst-balloons) |
+| [0806-domino-and-tromino-tiling](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0806-domino-and-tromino-tiling) |
 | [0909-stone-game](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0909-stone-game) |
 | [1511-count-number-of-teams](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1511-count-number-of-teams) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
