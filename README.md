@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1511-count-number-of-teams](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1792-find-the-most-competitive-subsequence) |
+| [1881-closest-subsequence-sum](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1881-closest-subsequence-sum) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-domino-and-tromino-tiling](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0806-domino-and-tromino-tiling) |
 | [0909-stone-game](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0909-stone-game) |
 | [1511-count-number-of-teams](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1511-count-number-of-teams) |
+| [1881-closest-subsequence-sum](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1881-closest-subsequence-sum) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/chinmay2814/Leetcode_Submission/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0268-missing-number) |
+| [1881-closest-subsequence-sum](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1881-closest-subsequence-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -314,4 +317,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2358-number-of-ways-to-split-array](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2358-number-of-ways-to-split-array) |
+## Two Pointers
+|  |
+| ------- |
+| [1881-closest-subsequence-sum](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1881-closest-subsequence-sum) |
+## Bitmask
+|  |
+| ------- |
+| [1881-closest-subsequence-sum](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1881-closest-subsequence-sum) |
 <!---LeetCode Topics End-->
