@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1207-delete-nodes-and-return-forest) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/chinmay2814/Leetcode_Submission/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/chinmay2814/Leetcode_Submission/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
 ## Sorting
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1511-count-number-of-teams](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1792-find-the-most-competitive-subsequence) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2358-number-of-ways-to-split-array](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2358-number-of-ways-to-split-array) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0316-remove-duplicate-letters) |
 | [1122-longest-duplicate-substring](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1122-longest-duplicate-substring) |
 | [1804-maximum-binary-string-after-change](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1804-maximum-binary-string-after-change) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2727-number-of-senior-citizens](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2727-number-of-senior-citizens) |
 ## Dynamic Programming
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2163-kth-distinct-string-in-an-array](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/chinmay2814/Leetcode_Submission/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 ## Divide and Conquer
 |  |
