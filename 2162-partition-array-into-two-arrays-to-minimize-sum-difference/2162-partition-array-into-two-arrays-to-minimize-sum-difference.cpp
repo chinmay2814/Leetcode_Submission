@@ -36,7 +36,7 @@ public:
             for (auto ele : l[i]) {
                 int req = goal - ele;
                 int rem = n / 2 - i;
-                if (rem < 0 || rem >= r.size()) continue;
+                
                 auto it = upper_bound(r[rem].begin(), r[rem].end(), req);
                 if (it != r[rem].end()) {
                     maxi = min(maxi, abs(tsum - 2 * (*it + ele)));
