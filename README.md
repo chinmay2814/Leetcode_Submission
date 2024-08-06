@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/chinmay2814/Leetcode_Submission/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/chinmay2814/Leetcode_Submission/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/chinmay2814/Leetcode_Submission/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
 ## Sorting
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1333-sort-the-jumbled-numbers](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1333-sort-the-jumbled-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2846-robot-collisions](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2846-robot-collisions) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/chinmay2814/Leetcode_Submission/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2727-number-of-senior-citizens](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2727-number-of-senior-citizens) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/chinmay2814/Leetcode_Submission/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1792-find-the-most-competitive-subsequence](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1804-maximum-binary-string-after-change](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1804-maximum-binary-string-after-change) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/chinmay2814/Leetcode_Submission/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -197,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2163-kth-distinct-string-in-an-array](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/chinmay2814/Leetcode_Submission/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/chinmay2814/Leetcode_Submission/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 ## Divide and Conquer
 |  |
