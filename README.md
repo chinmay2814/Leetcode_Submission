@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1122-longest-duplicate-substring](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1122-longest-duplicate-substring) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Array
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1881-closest-subsequence-sum](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1881-closest-subsequence-sum) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0909-stone-game) |
 | [1511-count-number-of-teams](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1511-count-number-of-teams) |
 | [1881-closest-subsequence-sum](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1881-closest-subsequence-sum) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/chinmay2814/Leetcode_Submission/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0493-reverse-pairs) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -262,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0268-missing-number) |
 | [1881-closest-subsequence-sum](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1881-closest-subsequence-sum) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Simulation
 |  |
 | ------- |
@@ -326,8 +331,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1881-closest-subsequence-sum](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1881-closest-subsequence-sum) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Bitmask
 |  |
 | ------- |
 | [1881-closest-subsequence-sum](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1881-closest-subsequence-sum) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
