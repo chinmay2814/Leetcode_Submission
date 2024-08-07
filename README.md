@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-loud-and-rich](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0881-loud-and-rich) |
 | [0909-stone-game](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0909-stone-game) |
 | [0948-sort-an-array](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0948-sort-an-array) |
+| [0993-tallest-billboard](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0993-tallest-billboard) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1207-delete-nodes-and-return-forest) |
 | [1333-sort-the-jumbled-numbers](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1333-sort-the-jumbled-numbers) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0312-burst-balloons) |
 | [0806-domino-and-tromino-tiling](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0806-domino-and-tromino-tiling) |
 | [0909-stone-game](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0909-stone-game) |
+| [0993-tallest-billboard](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0993-tallest-billboard) |
 | [1511-count-number-of-teams](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1511-count-number-of-teams) |
 | [1881-closest-subsequence-sum](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1881-closest-subsequence-sum) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
