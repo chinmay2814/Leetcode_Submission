@@ -13,7 +13,7 @@ public:
                 if (r0 >= 0 && r0 < R && c0 >= 0 && c0 < C) 
                     res.push_back({r0, c0});
             }
-            d = (d +1) % 4; 
+            d = (++d) % 4; 
         }
         return res;
     }
