@@ -361,5 +361,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0234-palindrome-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0328-odd-even-linked-list) |
 | [2411-spiral-matrix-iv](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2411-spiral-matrix-iv) |
 <!---LeetCode Topics End-->
