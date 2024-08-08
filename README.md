@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0316-remove-duplicate-letters) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1792-find-the-most-competitive-subsequence) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0234-palindrome-linked-list) |
 | [1881-closest-subsequence-sum](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1881-closest-subsequence-sum) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Bitmask
@@ -353,9 +355,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0273-integer-to-english-words) |
 ## Linked List
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0234-palindrome-linked-list) |
 | [2411-spiral-matrix-iv](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2411-spiral-matrix-iv) |
 <!---LeetCode Topics End-->
