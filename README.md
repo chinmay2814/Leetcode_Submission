@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0059-spiral-matrix-ii) |
 | [0152-maximum-product-subarray](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0152-maximum-product-subarray) |
 | [0268-missing-number](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0268-missing-number) |
 | [0312-burst-balloons](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0312-burst-balloons) |
@@ -274,10 +275,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0059-spiral-matrix-ii) |
 | [2846-robot-collisions](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2846-robot-collisions) |
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0059-spiral-matrix-ii) |
 | [0695-max-area-of-island](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0695-max-area-of-island) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2409-number-of-increasing-paths-in-a-grid) |
