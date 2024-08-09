@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0010-regular-expression-matching) |
 | [0132-palindrome-partitioning-ii](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0132-palindrome-partitioning-ii) |
 | [0214-shortest-palindrome](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0214-shortest-palindrome) |
 | [0273-integer-to-english-words](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0273-integer-to-english-words) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0010-regular-expression-matching) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0132-palindrome-partitioning-ii) |
 | [0152-maximum-product-subarray](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0152-maximum-product-subarray) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0010-regular-expression-matching) |
 | [0234-palindrome-linked-list](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0273-integer-to-english-words) |
 ## Linked List
