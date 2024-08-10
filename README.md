@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0695-max-area-of-island) |
 | [0881-loud-and-rich](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0881-loud-and-rich) |
+| [0999-regions-cut-by-slashes](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0999-regions-cut-by-slashes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1207-delete-nodes-and-return-forest) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0310-minimum-height-trees) |
 | [0684-redundant-connection](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0695-max-area-of-island) |
+| [0999-regions-cut-by-slashes](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0999-regions-cut-by-slashes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0268-missing-number) |
 | [0652-find-duplicate-subtrees](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0652-find-duplicate-subtrees) |
 | [0870-magic-squares-in-grid](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0870-magic-squares-in-grid) |
+| [0999-regions-cut-by-slashes](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0999-regions-cut-by-slashes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1207-delete-nodes-and-return-forest) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0948-sort-an-array) |
 | [0993-tallest-billboard](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0993-tallest-billboard) |
+| [0999-regions-cut-by-slashes](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0999-regions-cut-by-slashes) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1207-delete-nodes-and-return-forest) |
 | [1333-sort-the-jumbled-numbers](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1333-sort-the-jumbled-numbers) |
@@ -298,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0695-max-area-of-island) |
 | [0870-magic-squares-in-grid](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0921-spiral-matrix-iii) |
+| [0999-regions-cut-by-slashes](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0999-regions-cut-by-slashes) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/chinmay2814/Leetcode_Submission/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2409-number-of-increasing-paths-in-a-grid) |
@@ -307,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0684-redundant-connection](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0695-max-area-of-island) |
+| [0999-regions-cut-by-slashes](https://github.com/chinmay2814/Leetcode_Submission/tree/master/0999-regions-cut-by-slashes) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/chinmay2814/Leetcode_Submission/tree/master/2101-last-day-where-you-can-still-cross) |
 ## Graph
 |  |
